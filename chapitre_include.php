@@ -8,9 +8,8 @@
 <body>
 
 <div id="container">
-<header>
-	Ici mon header
-</header> <!-- fermeture header -->
+
+<?php include("header.php"); ?>
 
 <nav>
 	<ul>
@@ -30,9 +29,9 @@
 </div> <!-- fermeture contenu_2 -->
 
 <div id="clear"></div>
-<footer>
-	Ici mon footer
-</footer> <!-- fermeture footer -->
+
+<?php include("footer.php"); ?>
+
 </div> <!-- fermeture container -->
 </body>
 
