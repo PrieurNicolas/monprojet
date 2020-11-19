@@ -1,0 +1,10 @@
+body {background: #CCC; margin: 0; color: white; font-family: Arial, Verdana; font-size: 16px; font-weight: bold;}
+#container { width: 900px; margin: 0 auto; background-color: white; padding-top: 2%; margin-top: 2%; padding-bottom: 2%; margin-bottom: 2%;}
+header { width: 95%; background: #007ab3; height: 150px; margin: 0 auto;}
+nav { width: 95%; background: #69cb00; height: 35px; margin: 0 auto; margin-bottom: 2%;}
+nav ul {}
+nav li { list-style-type: none; display: inline; margin: 0 10px 0 0; line-height: 35px;}
+#contenu_1 { margin: 0 auto; margin-left:3%; padding: 0; width: 70%; height: 550px; background: #bdab55; float: left;}
+#contenu_2 { margin: 0 auto; margin-right: 3%; padding: 0; width: 20%; height: 550px; background: #c018c6; float: right;}
+#clear {clear: both;}
+footer {width: 95%; background: #ff5400; height: 60px; margin: 0 auto; margin-top: 2%; margin-bottom: 3%;}
